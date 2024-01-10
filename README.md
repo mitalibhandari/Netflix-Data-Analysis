@@ -18,6 +18,9 @@ This repository contains a Tableau dashboard that provides a comprehensive analy
 
 The data used in this dashboard is sourced from [Netflix's public database](https://www.kaggle.com/datasets/shivamb/netflix-shows). The dataset includes details like type, rating, release year, and genre.
 
+## Tableau Public Visualization Link
+[Netflix Visualization](https://public.tableau.com/app/profile/mitali.bhandari/viz/NetflixDashboard_17048546521450/Netflix)
+
 ## How to Use
 
 To view and interact with the dashboard:
